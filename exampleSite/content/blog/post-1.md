@@ -1,5 +1,5 @@
 ---
-title: "How To Use Checklists To Improve Your UX"
+title: "this user 🫦"
 date: 2019-10-29T10:07:47+06:00
 draft: false
 
@@ -7,11 +7,11 @@ draft: false
 image: "images/featured-post/post-1.jpg"
 
 # meta description
-description: "this is meta description"
+description: "hi everyone! I'm back again with my new channel 😂 PLEASE DON'T FORGET TO SUBSCRIBE! 🫶"
 
 # taxonomies
 categories:
-  - "Android And Gaming"
+  - "the space where you can express your feelings 🤍"
 tags:
   - "Photos"
   - "Game"
