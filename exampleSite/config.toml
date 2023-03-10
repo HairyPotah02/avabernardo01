@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://demo.gethugothemes.com/liva/examplesite/"
 languageCode = "en-us"
-title = "Liva | Personal blog template"
+title = "AVA | Personal blog template"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
@@ -81,16 +81,16 @@ weight = 3
 logo = "images/logo.png"
 home = "Home"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "at least I'm trying"
+author = "Juan Malalim"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # Contact Information
 mobile = "0124857985320"
 email = "demo@email.com"
-location = "Dhaka, Bangladedsh"
+location = "Manila, Pasig"
 # copyright
-copyright = "| copyright &copy; 2021 [Themefisher](https://themefisher.com/hugo-themes/) All Rights Reserved |"
+copyright = "| copyright &copy; 2021 [ JANE ](https://t.me/+H5D0u3-eM2hkYzU1) All Rights Reserved |"
 
 # Preloader
 [params.preloader]
@@ -123,7 +123,7 @@ link = "#"
 [[params.social]]
 title = "twitter"
 icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://twitter.com/avaskrrrt"
 
 [[params.social]]
 title = "instagram"
